@@ -1,0 +1,22 @@
+{
+  "name": "perf-ui-mocha-agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example_test.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chromedriver": "^76.0.0",
+    "selenium-webdriver": "^4.0.0-alpha.4"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  },
+  "scripts": {
+    "test": "mocha example_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hupfyn/perf-ui-mocha-agent.git"
+  },
+  "author": "Ivan Nahornyi"
+}
